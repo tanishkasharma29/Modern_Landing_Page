@@ -24,3 +24,22 @@ A sleek and responsive modern landing page built using **HTML**, **CSS**, and **
 
 ## 📁 Folder Structure
 
+Modern_Landing_Page/
+│
+├── index.html # Main landing page
+└── README.md # Project documentation
+
+
+## 🖥️ How to Use
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/tanishkasharma29/Modern_Landing_Page.git
+
+2. Navigate into the folder:
+   ```bash
+   cd Modern_Landing_Page
+
+3. Open index.html in your browser or a live server.
+
+
